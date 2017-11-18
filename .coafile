@@ -1,0 +1,4 @@
+[cli]
+bears = SpaceConsistencyBear
+files = **/*.java
+use_spaces = True
